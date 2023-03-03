@@ -1,3 +1,8 @@
+
+`hidesExplorerArrows` 全局搜索：改为 false 即可，或者在icons.json里把这个替换成 false
+
+hidesExplorerArrows: false,
+
 <h1 align="center">
   <br>
     <img src="icon.png" alt="logo" width="200">
